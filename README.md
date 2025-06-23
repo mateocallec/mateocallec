@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **cybersecurity**
 
-- 📝 I regularly write articles on [https://cybersec.callec.net](https://cybersec.callec.net)
-
-- 📫 How to reach me **mateo@callec.net**
+- 📫 How to reach me **[mailto:mateo@callec.net](mateo@callec.net)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
