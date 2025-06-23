@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **cybersecurity**
 
-- 📫 How to reach me **[mailto:mateo@callec.net](mateo@callec.net)**
+- 📫 How to reach me **[mateo@callec.net](mailto:mateo@callec.net)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
