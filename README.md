@@ -49,9 +49,9 @@ My main interests lie in **cybersecurity** 🔐 and **OSINT (Open Source Intelli
 
 ### 📬 How to Reach Me:
 
-**🌐 My website: [https://mateo.callec.net](https://mateo.callec.net)**<br>
-**✉️ Mail: [mateo@callec.net](mailto:mateo@callec.net)**<br>
-**📸 Instagram: [@mateocallec](https://www.instagram.com/mateocallec)**<br>
+<b>🌐 My website: <a href="https://mateo.callec.net" target="_blank">https://mateo.callec.net</a></b><br>
+<b>✉️ Mail: <a href="mailto:mateo@callec.net" target="_blank">mateo@callec.net</a></b><br>
+<b>📸 Instagram: <a href="https://www.instagram.com/mateocallec" target="_blank">@mateocallec</a></b><br>
 
 <br>
 <img src="images/separator.gif">
