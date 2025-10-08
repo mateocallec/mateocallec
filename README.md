@@ -56,7 +56,7 @@ My main interests lie in **cybersecurity** 🔐 and **OSINT (Open Source Intelli
 <br>
 <img src="images/separator.gif">
 
-### ⚡ Commit Eater:
+### 🐍 Commit Eater:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateocallec/mateocallec/output/github-snake-dark.svg" />
