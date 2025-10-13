@@ -110,6 +110,11 @@ Created a platform to prevent school harassment, including AI moderation tools f
 Personally coded and experimented with various malware types (ransomware, keyloggers) for educational purposes, to better understand cyber threats and defensive strategies.
 
 
+#### Simple FTP Client
+
+Automated FTP client for CMS installation.
+
+
 #### Development Tools
 
 Built simple tools to improve software development workflow.
