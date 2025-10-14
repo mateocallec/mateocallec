@@ -27,6 +27,7 @@ My main interests lie in **cybersecurity** 🔐 and **OSINT (Open Source Intelli
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![ElectronJS](https://img.shields.io/badge/ElectronJS-%2320232e.svg?style=for-the-badge&logo=electron&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
