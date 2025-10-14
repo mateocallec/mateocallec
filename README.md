@@ -54,7 +54,7 @@ Each project reflects my focus on clean design, thoughtful development, and a us
 
 #### OSINT Tools
 
-Created OSINT tools for online information analysis, **legally** used in real-world cases to identify and document malicious online activities, with findings responsibly shared with law enforcement.
+Created OSINT tools for online information analysis.
 
 
 #### Detecting Major Geopolitical Events
