@@ -112,7 +112,7 @@ Personally coded and experimented with various malware types (ransomware, keylog
 
 #### Simple FTP Client
 
-Automated FTP client for CMS installation.
+Automated FTP client for installing a CMS (also created by myself).
 
 
 #### Development Tools
