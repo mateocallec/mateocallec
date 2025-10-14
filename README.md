@@ -66,9 +66,9 @@ Developed an OSINT project analyzing unconventional open data indicators — suc
 <b><a href="https://github.com/mateocallec/biwy" target="_blank">&bull; BIWY</a></b>
 
 
-#### › Intrusion Detection System (IDS)
+#### › Intrusion Detection System (IDS) / Intrusion Prevention System (IPS)
 
-Designed a multi-protocol IDS capable of detecting and alerting on unauthorized access attempts, strengthening system security.
+Designed a multi-protocol IDS capable of detecting, alerting on unauthorized access attempts and act to stop a threat, strengthening system security.
 
 
 #### › Cyberoffensive Tools
