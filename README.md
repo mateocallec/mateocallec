@@ -38,6 +38,7 @@ My main interests lie in **cybersecurity** 🔐 and **OSINT (Open Source Intelli
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-%2300A2FF.svg?style=for-the-badge&logo=roblox&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%23157BBA.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Procreate](https://img.shields.io/badge/Procreate-%23000000.svg?style=for-the-badge&logo=procreate&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
