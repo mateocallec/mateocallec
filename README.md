@@ -54,70 +54,70 @@ My main interests lie in **cybersecurity** 🔐 and **OSINT (Open Source Intelli
 This is a short selection of my recent projects — an excerpt from my full portfolio available at <a href="https://mateo.callec.net" target="_blank">https://mateo.callec.net</a>.
 Each project reflects my focus on clean design, thoughtful development, and a user-centered approach.
 
-#### OSINT Tools
+#### › OSINT Tools
 
 Created OSINT tools for online information analysis.
 
 
-#### Detecting Major Geopolitical Events
+#### › Detecting Major Geopolitical Events
 
 Developed an OSINT project analyzing unconventional open data indicators — such as local activity patterns — to identify potential significant events near specific locations.
 
 <b><a href="https://github.com/mateocallec/biwy" target="_blank">&bull; BIWY</a></b>
 
 
-#### Intrusion Detection System (IDS)
+#### › Intrusion Detection System (IDS)
 
 Designed a multi-protocol IDS capable of detecting and alerting on unauthorized access attempts, strengthening system security.
 
 
-#### Cyberoffensive Tools
+#### › Cyberoffensive Tools
 
 Developed pentesting utilities including ARP spoofing, port scanners, and other security testing tools to evaluate network and system vulnerabilities.
 
 
-#### SpoofEye
+#### › SpoofEye
 
 Open-source anti-spoofing software detecting ARP attacks and untrusted DNS responses, designed to protect networks from common attack vectors.
 
 <b><a href="https://github.com/mateocallec/SpoofEye" target="_blank">&bull; SpoofEye</a></b>
 
 
-#### Web Browser with Ranking & Indexing
+#### › Web Browser with Ranking & Indexing
 
 Built a fast web browser with inverted indexing, capable of retrieving information across thousands of pages in under 0.3 seconds.
 
 
-#### OS Kernel with Filesystem **(x2)**
+#### › OS Kernel with Filesystem **(x2)**
 
 Developed two operating system kernels with full filesystem support; one as a solo project, another during university coursework.
 
 
-#### Websites & APIs
+#### › Websites & APIs
 
 Full-stack development including front-end, back-end, database integration, payment systems, and custom API creation for multiple projects.
 
 <b><a href="https://www.art-networks.fr" target="_blank">&bull; https://www.art-networks.fr</a></b>
 
 
-#### Signalo.fr & AI Moderation Service
+#### › Signalo.fr & AI Moderation Service
 
 Created a platform to prevent school harassment, including AI moderation tools for automated content review.
 
 <b><a href="https://www.signalo.fr" target="_blank">&bull; Signalo.fr</a></b>
 
 
-#### Malware Research
+#### › Malware Research
 
 Personally coded and experimented with various malware types (ransomware, keyloggers) for educational purposes, to better understand cyber threats and defensive strategies.
 
 
-#### Simple FTP Client
+#### › Simple FTP Client
 
 Automated FTP client for installing a CMS (also created by myself).
 
 
-#### Development Tools
+#### › Development Tools
 
 Built simple tools to improve software development workflow.
 
