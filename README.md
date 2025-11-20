@@ -124,6 +124,7 @@ Automated FTP client for installing a CMS (also created by myself).
 Built simple tools to improve software development workflow.
 
 <b><a href="https://github.com/mateocallec/beacon-flow" target="_blank">&bull; Beacon Flow</a></b><br>
+<b><a href="https://github.com/mateocallec/docker-manager.sh" target="_blank">&bull; docker-manager.sh</a></b><br>
 <b><a href="https://github.com/mateocallec/mavu" target="_blank">&bull; MAVU</a></b>
 
 
