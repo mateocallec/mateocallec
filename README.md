@@ -128,6 +128,13 @@ Built simple tools to improve software development workflow.
 <b><a href="https://github.com/mateocallec/mavu" target="_blank">&bull; MAVU</a></b>
 
 
+#### › Other Tools
+
+Other tools & extensions.
+
+<b><a href="https://chromewebstore.google.com/detail/vc-ban-monitor-for-roblox/akkppjbknlajdlinelokpklkenpecmen" target="_blank">&bull; VC Ban Monitor for Roblox</a></b>
+
+
 <br>
 <img src="images/separator.gif">
 
