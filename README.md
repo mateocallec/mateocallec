@@ -142,7 +142,7 @@ Other tools & extensions.
 
 <b>🌐 My website: <a href="https://mateo.callec.net" target="_blank">https://mateo.callec.net</a></b><br>
 <b>✉️ Mail: <a href="mailto:mateo@callec.net" target="_blank">mateo@callec.net</a></b><br>
-<b>🔑 Encryption: <a href="https://mateo.callec.net/encryption/pgp.asc" target="_blank">PGP public key</a></b><br>
+<b>🔑 Encryption: <a href="https://mateo.callec.net/encryption/pgp.asc" target="_blank">Download</a></b><br>
 <b>📸 Instagram: <a href="https://www.instagram.com/mateocallec" target="_blank">@mateocallec</a></b><br>
 
 <br>
