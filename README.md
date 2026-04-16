@@ -64,6 +64,12 @@ DIVE is an application-layer protocol that uses DNSSEC as an out-of-band channel
 <b><a href="https://datatracker.ietf.org/doc/draft-callec-dive/" target="_blank">&bull; IETF Datatracker</a></b>
 <b><a href="https://github.com/diveprotocol" target="_blank">&bull; DIVE GitHub Organization</a></b>
 
+#### › QbitStrike
+
+Demonstrating Shor's and Grover's algorithms against classical cryptographic primitives on a real quantum computer.
+
+<b><a href="https://github.com/mateocallec/QbitStrike" target="_blank">&bull; QbitStrike</a></b>
+
 #### › OSINT Tools
 
 Created OSINT tools for online information analysis.
