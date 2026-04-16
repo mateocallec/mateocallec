@@ -60,10 +60,8 @@ Each project reflects my focus on clean design, thoughtful development, and a us
 
 DIVE is an application-layer protocol that uses DNSSEC as an out-of-band channel to verify the integrity of web resources — beyond what HTTPS alone can guarantee.
 
-<b><a href="https://diveprotocol.org/" target="_blank">&bull; DIVE website</a></b>
-
-<b><a href="https://datatracker.ietf.org/doc/draft-callec-dive/" target="_blank">&bull; IETF Datatracker</a></b>
-
+<b><a href="https://diveprotocol.org/" target="_blank">&bull; DIVE website</a></b><br>
+<b><a href="https://datatracker.ietf.org/doc/draft-callec-dive/" target="_blank">&bull; IETF Datatracker</a></b><br>
 <b><a href="https://github.com/diveprotocol" target="_blank">&bull; DIVE GitHub Organization</a></b>
 
 #### › QbitStrike
