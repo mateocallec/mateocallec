@@ -56,6 +56,14 @@ My main interests lie in **cybersecurity** 🔐 and **OSINT (Open Source Intelli
 This is a short selection of my recent projects — an excerpt from my full portfolio available at <a href="https://mateo.callec.net" target="_blank">https://mateo.callec.net</a>.
 Each project reflects my focus on clean design, thoughtful development, and a user-centered approach.
 
+#### › DIVE Protocol
+
+DIVE is an application-layer protocol that uses DNSSEC as an out-of-band channel to verify the integrity of web resources — beyond what HTTPS alone can guarantee.
+
+<b><a href="https://diveprotocol.org/" target="_blank">&bull; DIVE website</a></b>
+<b><a href="https://datatracker.ietf.org/doc/draft-callec-dive/" target="_blank">&bull; IETF Datatracker</a></b>
+<b><a href="https://github.com/diveprotocol" target="_blank">&bull; DIVE GitHub Organization</a></b>
+
 #### › OSINT Tools
 
 Created OSINT tools for online information analysis.
