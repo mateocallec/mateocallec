@@ -53,7 +53,7 @@ My main interests lie in **cybersecurity** 🔐 and **OSINT (Open Source Intelli
 
 ### 🧩 Portfolio & Projects
 
-This is a short selection of my recent projects — an excerpt from my full portfolio available at <a href="https://mateo.callec.net" target="_blank">https://mateo.callec.net</a>.
+This is a short selection of my recent projects — an excerpt from my full portfolio available at <a href="https://mateocallec.com" target="_blank">https://mateocallec.com</a>.
 Each project reflects my focus on clean design, thoughtful development, and a user-centered approach.
 
 #### › DIVE Protocol
@@ -160,9 +160,9 @@ Other tools & extensions.
 
 ### 📬 How to Reach Me:
 
-<b>🌐 My website: <a href="https://mateo.callec.net" target="_blank">https://mateo.callec.net</a></b><br>
+<b>🌐 My website: <a href="https://mateocallec.com" target="_blank">https://mateocallec.com</a></b><br>
 <b>✉️ Mail: <a href="mailto:mateo@callec.net" target="_blank">mateo@callec.net</a></b><br>
-<b>🔑 Encryption: <a href="https://mateo.callec.net/encryption/pgp.asc" target="_blank">Download</a></b><br>
+<b>🔑 Encryption: <a href="https://mateocallec.com/security/pgp.asc" target="_blank">Download</a></b><br>
 <b>📸 Instagram: <a href="https://www.instagram.com/mateocallec" target="_blank">@mateocallec</a></b><br>
 
 <br>
