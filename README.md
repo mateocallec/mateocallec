@@ -12,9 +12,7 @@
 
 <br><br>
 
-[![Website](https://img.shields.io/badge/-mateocallec.com-1793d1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mateocallec.com)
-[![Email](https://img.shields.io/badge/-mateo@callec.net-1793d1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateo@callec.net)
-[![PGP Key](https://img.shields.io/badge/-PGP%20Key-1793d1?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://mateocallec.com/security/pgp.asc)
+<a href="https://mateocallec.com"><img src="assets/link_website.svg" alt="Website" width="300" /></a> <a href="mailto:mateo@callec.net"><img src="assets/link_email.svg" alt="Email" width="300" /></a> <a href="https://mateocallec.com/security/pgp.asc"><img src="assets/link_pgp.svg" alt="PGP Key" width="300" /></a>
 
 </div>
 
