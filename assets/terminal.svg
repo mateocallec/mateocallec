@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="540" viewBox="0 0 920 540" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" role="img" aria-label="Animated Kali Linux style terminal showing a fictional web app security assessment">
+  <defs>
+    <clipPath id="screen2"><rect x="0" y="0" width="920" height="540" rx="8"/></clipPath>
+    <clipPath id="feed2"><rect x="0" y="44" width="920" height="468"/></clipPath>
+    <linearGradient id="scan2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1793d1" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#1793d1" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#1793d1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#screen2)">
+    <rect x="0" y="0" width="920" height="540" fill="#0a0e14"/>
+
+    <rect x="0" y="0" width="920" height="90" fill="url(#scan2)">
+      <animate attributeName="y" from="-90" to="540" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+
+    <g clip-path="url(#feed2)" font-size="15">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,470; 0,-970" dur="10s" repeatCount="indefinite"/>
+
+        <!-- Block A -->
+        <text x="20" y="0" fill="#4c566a">┌──(<tspan fill="#ff5c5c">mateo㉿callec.net</tspan>)-[<tspan fill="#1793d1">~/pentest</tspan>]</text>
+        <text x="20" y="22" fill="#56c2ff">└─$ <tspan fill="#e6edf3">feroxbuster -u https://mateocallec.com -w raft-medium.txt -x php,json,bak -t50 -q</tspan></text>
+        <text x="20" y="44" fill="#8b949e">200   GET   /login                142l   1120w   14.2k</text>
+        <text x="20" y="66" fill="#8b949e">301   GET   /api  =&gt; /api/           9l     30w    315b</text>
+        <text x="20" y="88" fill="#8b949e">200   GET   /api/v1/health           12l    45w    512b</text>
+        <text x="20" y="110" fill="#8b949e">200   GET   /swagger.json            85l   410w    6.2k</text>
+        <text x="20" y="132" fill="#ffb454">403   GET   /admin/dashboard          7l    20w    280b</text>
+
+        <!-- Block B -->
+        <text x="20" y="164" fill="#4c566a">┌──(<tspan fill="#ff5c5c">mateo㉿callec.net</tspan>)-[<tspan fill="#1793d1">~/pentest</tspan>]</text>
+        <text x="20" y="186" fill="#56c2ff">└─$ <tspan fill="#e6edf3">httpx -l subdomains.txt -title -status-code -tech-detect -silent</tspan></text>
+        <text x="20" y="208" fill="#8b949e">https://auth.company-target.io [200] React/Next.js</text>
+        <text x="20" y="230" fill="#8b949e">https://grafana.company-target.io [200] Grafana v9.2.1</text>
+        <text x="20" y="252" fill="#8b949e">https://jenkins.company-target.io [403] Access Denied</text>
+
+        <!-- Block C -->
+        <text x="20" y="284" fill="#4c566a">┌──(<tspan fill="#ff5c5c">mateo㉿callec.net</tspan>)-[<tspan fill="#1793d1">~/pentest</tspan>]</text>
+        <text x="20" y="306" fill="#56c2ff">└─$ <tspan fill="#e6edf3">nuclei -u https://grafana.company-target.io -t cves/2021/CVE-2021-43798.yaml</tspan></text>
+        <text x="20" y="328" fill="#ff5c5c">[high] CVE-2021-43798 grafana path-traversal → /etc/passwd</text>
+
+        <!-- Block D -->
+        <text x="20" y="360" fill="#4c566a">┌──(<tspan fill="#ff5c5c">mateo㉿callec.net</tspan>)-[<tspan fill="#1793d1">~/pentest</tspan>]</text>
+        <text x="20" y="382" fill="#56c2ff">└─$ <tspan fill="#e6edf3">curl -s "grafana.company-target.io/../../../../etc/passwd" | head -4</tspan></text>
+        <text x="20" y="404" fill="#8b949e">root:x:0:0:root:/root:/bin/bash</text>
+        <text x="20" y="426" fill="#8b949e">daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin</text>
+        <text x="20" y="448" fill="#8b949e">bin:x:2:2:bin:/bin:/usr/sbin/nologin</text>
+        <text x="20" y="470" fill="#8b949e">sys:x:3:3:sys:/dev:/usr/sbin/nologin</text>
+
+        <!-- Block E -->
+        <text x="20" y="502" fill="#4c566a">┌──(<tspan fill="#ff5c5c">mateo㉿callec.net</tspan>)-[<tspan fill="#1793d1">~/pentest</tspan>]</text>
+        <text x="20" y="524" fill="#56c2ff">└─$ <tspan fill="#e6edf3">curl -s -X POST mateocallec.com/api/export -d "tpl=../../../../tmp/test"</tspan></text>
+        <text x="20" y="546" fill="#8b949e">HTTP/1.1 500 Internal Server Error</text>
+        <text x="20" y="568" fill="#8b949e">Server: nginx/1.24.0</text>
+        <text x="20" y="590" fill="#8b949e">Content-Type: application/json</text>
+        <text x="20" y="612" fill="#8b949e">{"error":"TemplateNotFoundException"}</text>
+
+        <!-- Block F -->
+        <text x="20" y="644" fill="#4c566a">┌──(<tspan fill="#ff5c5c">mateo㉿callec.net</tspan>)-[<tspan fill="#1793d1">~/pentest</tspan>]</text>
+        <text x="20" y="666" fill="#56c2ff">└─$ <tspan fill="#e6edf3">echo "[+] CVE-2021-43798 + LFI lead on /api/export" &gt;&gt; findings.log</tspan></text>
+
+        <!-- Block G -->
+        <text x="20" y="698" fill="#4c566a">┌──(<tspan fill="#ff5c5c">mateo㉿callec.net</tspan>)-[<tspan fill="#1793d1">~/pentest</tspan>]</text>
+        <text x="20" y="720" fill="#56c2ff">└─$ <tspan fill="#e6edf3">git add findings.log &amp;&amp; git commit -m "report: grafana traversal + lfi"</tspan></text>
+        <text x="20" y="742" fill="#35d488">[main d18e4f2] report: grafana traversal + lfi</text>
+        <text x="20" y="764" fill="#8b949e">1 file changed, 18 insertions(+)</text>
+
+        <!-- loop seam: repeat Block A for a seamless scroll -->
+        <text x="20" y="818" fill="#4c566a">┌──(<tspan fill="#ff5c5c">mateo㉿callec.net</tspan>)-[<tspan fill="#1793d1">~/pentest</tspan>]</text>
+        <text x="20" y="840" fill="#56c2ff">└─$ <tspan fill="#e6edf3">feroxbuster -u https://mateocallec.com -w raft-medium.txt -x php,json,bak -t50 -q</tspan></text>
+        <text x="20" y="862" fill="#8b949e">200   GET   /login                142l   1120w   14.2k</text>
+        <text x="20" y="884" fill="#8b949e">301   GET   /api  =&gt; /api/           9l     30w    315b</text>
+        <text x="20" y="906" fill="#8b949e">200   GET   /api/v1/health           12l    45w    512b</text>
+        <text x="20" y="928" fill="#8b949e">200   GET   /swagger.json            85l   410w    6.2k</text>
+        <text x="20" y="950" fill="#ffb454">403   GET   /admin/dashboard          7l    20w    280b</text>
+      </g>
+    </g>
+
+    <!-- header bar -->
+    <rect x="0" y="0" width="920" height="44" fill="#12161f"/>
+    <text x="20" y="27" fill="#9aa4b2" font-size="13">mateo@callec.net: ~/pentest — zsh</text>
+    <rect x="836" y="16" width="12" height="12" rx="2" fill="#3a3f4b"/>
+    <rect x="860" y="16" width="12" height="12" rx="2" fill="#3a3f4b"/>
+    <rect x="884" y="16" width="12" height="12" rx="2" fill="#e5534b"/>
+    <line x1="0" y1="44" x2="920" y2="44" stroke="#1793d1" stroke-width="1" stroke-opacity="0.4"/>
+
+    <!-- soft edge masks so scrolling text doesn't cut off abruptly -->
+    <rect x="0" y="44" width="920" height="10" fill="#0a0e14"/>
+    <rect x="0" y="500" width="920" height="40" fill="#0a0e14"/>
+
+    <!-- fixed live prompt -->
+    <text x="20" y="516" fill="#4c566a" font-size="15">┌──(<tspan fill="#ff5c5c">mateo㉿callec.net</tspan>)-[<tspan fill="#1793d1">~/pentest</tspan>]</text>
+    <text x="20" y="534" fill="#56c2ff" font-size="15">└─$ <tspan fill="#e6edf3">_<animate attributeName="opacity" values="1;1;0;0" dur="0.9s" repeatCount="indefinite"/></tspan></text>
+
+    <rect x="0" y="0" width="920" height="540" rx="8" fill="none" stroke="#1793d1" stroke-width="1.5" stroke-opacity="0.5"/>
+  </g>
+</svg>
