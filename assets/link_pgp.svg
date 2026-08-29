@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="72" viewBox="0 0 300 72" font-family="'Poppins','Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-label="PGP Key: Encryption">
+  <defs>
+    <clipPath id="clipp"><rect x="0" y="0" width="300" height="72" rx="10"/></clipPath>
+    <linearGradient id="scanp" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1793d1" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#1793d1" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#1793d1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#clipp)">
+    <rect x="0" y="0" width="300" height="72" fill="#0a0e14"/>
+    <rect x="-80" y="0" width="80" height="72" fill="url(#scanp)">
+      <animate attributeName="x" from="-80" to="300" dur="3.5s" repeatCount="indefinite"/>
+    </rect>
+    <line x1="64" y1="16" x2="64" y2="56" stroke="#1793d1" stroke-opacity="0.35" stroke-width="1"/>
+    <g transform="translate(38,36)">
+      <path d="M-8,-4 a8,8 0 0 1 16,0 v4" stroke="#56c2ff" stroke-width="2.5" fill="none"/>
+      <rect x="-11" y="0" width="22" height="16" rx="3" fill="#56c2ff"/>
+      <circle cx="0" cy="7" r="2" fill="#0a0e14"/>
+      <rect x="-1" y="8" width="2" height="4" fill="#0a0e14"/>
+    </g>
+    <text x="82" y="31" fill="#e6edf3" font-size="16" font-weight="700">PGP Key</text>
+    <text x="82" y="50" fill="#8b949e" font-size="12.5">Encryption</text>
+    <rect x="0" y="0" width="300" height="72" rx="10" fill="none" stroke="#1793d1" stroke-width="1.5" stroke-opacity="0.5"/>
+  </g>
+</svg>
